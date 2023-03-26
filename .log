@@ -1,0 +1,4 @@
+2023-03-21 15:15:25,523 [24350] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {'d3': 'https://d3js.org/d3.v5.min'}, 'shim': {}}
+2023-03-21 15:15:41,420 [24590] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {'d3': 'https://d3js.org/d3.v5.min'}, 'shim': {}}
+2023-03-21 15:16:23,027 [24590] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {'d3': 'https://d3js.org/d3.v5.min'}, 'shim': {}}
+2023-03-21 15:16:35,174 [24662] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {'d3': 'https://d3js.org/d3.v5.min'}, 'shim': {}}
